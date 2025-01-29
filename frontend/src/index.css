@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.signup-container{
+    background: url('D:\eman data\web dev\project\Ecommerce\frontend\src\assets\siignup.jpg') no-repeat center center/cover;
+    width: 90%;
+    margin: auto;
+    height: 80vh;
+    position: relative;
+    margin-top: 15px;
+    border-radius: 10px;
+}
